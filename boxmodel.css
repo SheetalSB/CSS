@@ -1,0 +1,22 @@
+p{
+    height: 100px;
+    width: 100px;
+    padding:20px;
+    border: 50px solid red;
+    margin:150px 300px;
+}
+h1{
+    height:300px;
+    width: 300px;
+    border: 50px solid rgb(135, 13, 33);
+    /* padding: 250px; (all the sides)
+    padding: 50px 50px; */
+    /* padding: 50px 50px 50px;
+    padding: 50px 50px 50px 50px; */
+    padding: 50px 50px 50px 50px;
+    margin: 150px;
+    /* margin:20px 20px;
+    margin: 50px 50px 50px;
+    margin: 50px 50px 50px 50px; */
+    margin: 20px 20px 20px 20px;
+}

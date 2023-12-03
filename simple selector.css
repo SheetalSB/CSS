@@ -1,0 +1,39 @@
+p{
+    color:chartreuse;
+}
+pre{
+    background-color: blueviolet;
+}
+
+b{
+    color:deepskyblue;
+    background-color: coral;
+}
+h1{
+    color:black;
+    background-color: cyan;
+}
+i,h1,h4{
+    color:aqua;
+
+
+}
+
+b{
+    color:rgb(255, 0, 0);
+    background-color: coral;
+}
+
+*{
+    font-size: 10px;
+    background-color: cadetblue;
+}
+
+#uni1{
+    background-color: red;
+    color:blue;
+}
+
+.uni2{
+    background-color: aqua;
+}
